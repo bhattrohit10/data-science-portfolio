@@ -1,0 +1,13 @@
+In the traffic violations dataset, 
+
+•	Analyse the dataset to identify any missing values in fields and fill them with appropriate values. 
+
+
+Following statistics are expected post data sanity checks are done and missing values filled:
+
+
+1.	Find out total number of violations that occurred in each year under different Charges
+
+2.	Find out the top 5 cities with the maximum violations
+
+3.	Filter out the cases when the person has been driving with any influence of 'alcohol'
